@@ -1,0 +1,5 @@
+opencv-python>=4.8
+numpy>=1.24
+# Tested on Python 3.12 with OpenCV 4.13 and OpenCV 5.0 (installers also exist for Python 3.9 - 3.14).
+# On a computer with no screen use opencv-python-headless instead.
+# On a Jetson Nano, OpenCV is already installed with JetPack - do not pip install it.
